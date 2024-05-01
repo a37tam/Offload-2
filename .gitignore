@@ -1,0 +1,7 @@
+/.vs
+/Offload
+Offload.sln
+Offload.vcxproj
+Offload.vcxproj.filters
+Offload.vcxproj.user
+/buck-out
